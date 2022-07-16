@@ -1,2 +1,1 @@
-# Tveito-Winther-codes
-Codes for pde problems in tveito winther.
+# Code written during internship at CAM.
